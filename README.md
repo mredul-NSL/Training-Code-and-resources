@@ -10,3 +10,9 @@ https://www.programiz.com/python-programming/examples/conversion-binary-octal-he
 
 Day 3 additional resources explored
 https://towardsdatascience.com/python-eval-built-in-function-601f87db191
+
+Day 4 additional resources explored 
+https://www.datacamp.com/community/tutorials/decorators-python
+https://www.programiz.com/python-programming/decorator
+https://www.programiz.com/python-programming/property
+https://www.geeksforgeeks.org/python-sets/
