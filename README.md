@@ -16,3 +16,7 @@ https://www.datacamp.com/community/tutorials/decorators-python
 https://www.programiz.com/python-programming/decorator
 https://www.programiz.com/python-programming/property
 https://www.geeksforgeeks.org/python-sets/
+
+Day 5 additional resources explored
+https://www.dataquest.io/blog/regex-cheatsheet/
+https://www.youtube.com/watch?v=K8L6KVGG-7o
