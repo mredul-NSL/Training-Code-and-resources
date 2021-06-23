@@ -20,3 +20,8 @@ https://www.geeksforgeeks.org/python-sets/
 Day 5 additional resources explored
 https://www.dataquest.io/blog/regex-cheatsheet/
 https://www.youtube.com/watch?v=K8L6KVGG-7o
+
+Day 6 additional resources explored
+https://www.youtube.com/watch?v=r6dyk68gymk
+https://www.youtube.com/watch?v=8JfDAm9y_7s
+https://realpython.com/python-zip-function/
